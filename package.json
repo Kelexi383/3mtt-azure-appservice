@@ -1,0 +1,12 @@
+{
+  "name": "3mtt-azure-web-app",
+  "version": "1.0.0",
+  "description": "A simple web application for the 3MTT Azure PaaS Lab",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
